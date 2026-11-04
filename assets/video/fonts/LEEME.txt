@@ -1,0 +1,7 @@
+Pon aquí las fuentes con licencia de Nodo (formato web .woff2; si solo tienes .otf también sirve):
+
+  Niela-Bold.woff2            títulos de todas las secciones
+  AOTSerialMono-Regular.woff2 contador del preload, cifras, kickers y etiquetas
+  Inter-Regular.woff2 / Inter-Medium.woff2 / Inter-SemiBold.woff2   cuerpo (opcional: si no están, Inter se carga de Google Fonts)
+
+Los nombres tienen que ser exactamente estos. Mientras no estén, la página usa Inter e IBM Plex Mono como reemplazo.
